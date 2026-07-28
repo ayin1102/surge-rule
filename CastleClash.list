@@ -1,0 +1,18 @@
+# Castle Clash 规则集
+DOMAIN-SUFFIX,igotgames.net
+DOMAIN-SUFFIX,cc.igotgames.net
+DOMAIN-KEYWORD,login.cc.igotgames
+DOMAIN-KEYWORD,igotgames
+DOMAIN-SUFFIX,igg.com
+DOMAIN-SUFFIX,igg.me
+DOMAIN-SUFFIX,igg.cn
+DOMAIN-KEYWORD,castleclash
+DOMAIN-KEYWORD,casclash
+DOMAIN-SUFFIX,casclash.com
+DOMAIN,castleclash.igg.com
+DOMAIN,castleclash-eu.igg.com
+DOMAIN,event-cc.igg.com
+DOMAIN,g.igg.com
+DOMAIN-SUFFIX,zn.casclash.com
+DOMAIN-KEYWORD,iggcdn
+DOMAIN-KEYWORD,iggc
